@@ -26,16 +26,8 @@
 
 ## 配置模型
 
-<div class="half" style="display:flex; justify-content:space-between;" >
-  <div align="center" >
-      <div>DeepSeek</div>
-      <img width="250" style="margin-right:30px" src="./assets/deepseekConfig.png" alt="SeekCodeCopilot DeepSeek" />
-  </div>
-  <div align="center">
-      <div>Ollama</div>
-      <img width="250" style="margin-right:30px" src="./assets/ollamaConfig.png" alt="SeekCodeCopilot ollama" />
-  </div>
-</div>
+<center class="half">
+  <img width="250" style="margin-right:30px" src="./assets/deepseekConfig.png" alt="SeekCodeCopilot DeepSeek" /><img width="250" style="margin-right:30px" src="./assets/ollamaConfig.png" alt="SeekCodeCopilot ollama" /> </center>
 
 
 ## 主要功能
