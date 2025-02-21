@@ -26,9 +26,9 @@
 
 ## 配置模型
 
-<center class="half">
-  <img width="250" style="margin-right:30px" src="./assets/deepseekConfig.png" alt="SeekCodeCopilot DeepSeek" /><img width="250" style="margin-right:30px" src="./assets/ollamaConfig.png" alt="SeekCodeCopilot ollama" />
-</center>
+<div align="center" >
+ <img width="800" src="./assets/config.png" alt="SeekCodeCopilot install" />
+</div>
 
 
 ## 主要功能
