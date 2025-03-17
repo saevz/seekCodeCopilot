@@ -54,7 +54,14 @@
 
 ## Change Log
 
+#### 版本：0.3.2 日期：2025-03-14
+实现使用硅基流动api的代码补全功能
 
+#### 版本：0.3.1 日期：2025-03-13
+可接入硅基流动平台
+
+#### 版本：0.3.0 日期：2025-03-12
+新增AI程序员功能。[......](https://github.com/titusTong/seekCodeCopilot/blob/main/CHANGELOG.md)
 
 ## 联系我们
 
