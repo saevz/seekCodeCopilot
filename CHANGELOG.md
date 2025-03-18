@@ -2,6 +2,10 @@
 
 All notable changes to the "SeekCode Copilot" extension will be documented in this file.
 
+#### 版本：0.3.3 日期：2025-03-18
+修复使用推理模型，推理过程返回null的bug  
+当选择硅基流动平台不支持FIM的模型时，代码补全功能将使用免费的```Qwen/Qwen2.5-Coder-7B-Instruct```模型进行补全。
+
 #### 版本：0.3.2 日期：2025-03-14
 实现使用硅基流动api的代码补全功能
 
