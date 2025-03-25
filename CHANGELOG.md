@@ -4,6 +4,7 @@ All notable changes to the "SeekCode Copilot" extension will be documented in th
 
 #### 版本：0.3.5 日期：2025-03-25
 新增智能问答中将代码块插入光标位置和新建文件的功能按钮
+插件瘦身
 
 #### 版本：0.3.4 日期：2025-03-20
 修复model下拉框默认值的bug
