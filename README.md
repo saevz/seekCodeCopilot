@@ -54,16 +54,16 @@
 
 ## Change Log
 
+#### 版本：0.3.7 日期：2025-03-31
+记住使用过的apiKey,避免重复填写  
+优化AI程序员逻辑
+
+#### 版本：0.3.6 日期：2025-03-26
+对使用ollama本地部署模型返回的数据进行容错
+
 #### 版本：0.3.5 日期：2025-03-25
 新增智能问答中将代码块插入光标位置和新建文件的功能按钮  
-插件瘦身
-
-#### 版本：0.3.4 日期：2025-03-20
-修复model下拉框默认值的bug
-
-#### 版本：0.3.3 日期：2025-03-18
-修复使用推理模型，推理过程返回null的bug  
-当选择硅基流动平台不支持FIM的模型时，代码补全功能将使用免费的```Qwen/Qwen2.5-Coder-7B-Instruct```模型进行补全。[......](https://github.com/titusTong/seekCodeCopilot/blob/main/CHANGELOG.md)
+插件瘦身[......](https://github.com/titusTong/seekCodeCopilot/blob/main/CHANGELOG.md)
 
 ## 联系我们
 

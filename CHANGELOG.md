@@ -2,6 +2,13 @@
 
 All notable changes to the "SeekCode Copilot" extension will be documented in this file.
 
+#### 版本：0.3.7 日期：2025-03-31
+记住使用过的apiKey,避免重复填写  
+优化AI程序员逻辑
+
+#### 版本：0.3.6 日期：2025-03-26
+对使用ollama本地部署模型返回的数据进行容错
+
 #### 版本：0.3.5 日期：2025-03-25
 新增智能问答中将代码块插入光标位置和新建文件的功能按钮  
 插件瘦身
