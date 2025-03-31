@@ -4,6 +4,7 @@ All notable changes to the "SeekCode Copilot" extension will be documented in th
 
 #### 版本：0.3.7 日期：2025-03-31
 记住使用过的apiKey,避免重复填写  
+对硅基流动平台免费模型进行标注  
 优化AI程序员逻辑
 
 #### 版本：0.3.6 日期：2025-03-26
