@@ -2,6 +2,12 @@
 
 All notable changes to the "SeekCode Copilot" extension will be documented in this file.
 
+#### 版本：0.4.2 日期：2025-05-13
+修复设置弹框的重大bug
+
+#### 版本：0.4.1 日期：2025-04-18
+修复一些bug
+
 #### 版本：0.4.0 日期：2025-04-16
 优化功能，让ai模型可以更详细的理解项目  
 
